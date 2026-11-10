@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Crie um jogo da Forca em Python no qual a pessoa jogadora tenta descobrir uma palavra secreta, uma letra por vez. Você praticará strings, listas, seleção aleatória, condicionais, loops e entrada de dados.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Prepare o estado do jogo
 
