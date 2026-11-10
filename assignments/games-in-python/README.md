@@ -15,7 +15,7 @@ Use a lista de palavras fornecida no código inicial para escolher a palavra sec
 
 #### Requisitos
 
-O programa deve:
+O programa concluído deve:
 
 - Selecionar uma palavra aleatoriamente da lista `words`.
 - Inicializar uma coleção de letras já tentadas, o número de erros e o limite de erros.
